@@ -1,2 +1,2 @@
 # Ukentlige-oppgaver-for-emnet-1200
-Oppgaver for uke 36
+Denne mappen inneholder ukentlige oppgaver for 1 semester som er helt valgfritt. 
